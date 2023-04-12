@@ -1,8 +1,12 @@
 <h1 align="center">Mr Alexander Milligan</h1>
 <h3 align="center">A passionate Website & Software developer from Scotland</h3>
-<p align="left"> <a href="https://github.com/Alexander-Milligan/"><img src="https://komarev.com/ghpvc/?Alexander-Milligan&label=Profile%20views&color=0e75b6&style=flat" alt="Alexander-Milligan" /></a> </p>
-<img src="https://github-profile-trophy.vercel.app/?username=Alexander-Milligan"/>
-<p align="left"><a href="https://github.com/Alexander-Milligan/"><img src="https://github-profile-trophy.vercel.app/?username=alexander-milligan" alt="alexander-milligan" /></a></p>
+<p align="left"> 
+<a href="https://github.com/Alexander-Milligan/">
+  <img src="https://komarev.com/ghpvc/?Alexander-Milligan&label=Profile%20views&color=0e75b6&style=flat" alt="Alexander-Milligan" />
+</a> 
+</p>
+<a href="https://github.com/Alexander-Milligan/"><img src="https://github-profile-trophy.vercel.app/?username=Alexander-Milligan"/></a>
+
 
 - 🔭 I’m currently working on Sandy's Community Centre bespoke cpanel and website [SandysCommunityCentre.com](https://sandyscommunitycentre.com/)
 
