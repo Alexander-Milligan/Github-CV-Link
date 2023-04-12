@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://saltirewebsites.com/MyPortfolio/](https://saltirewebsites.com/MyPortfolio/)
 
-- ⚡ Fun fact **My main hobbies are learning and coding/creating but most of my time is taken up with a 9 year lod that thinks he is 21 and a 18 year old that thinks I am 10 but the are very funny.**
+- ⚡ Fun fact **My main hobbies are learning and coding/creating but most of my time is taken up with a 9 year old that thinks he is 21 and a 18 year old that thinks I am 10 but the are very funny.**
 
 <h3 align="left">Connect with me: Alexander0milligan@gmail.com</h3>
 <p align="left">
