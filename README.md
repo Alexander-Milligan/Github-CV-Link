@@ -1,6 +1,6 @@
 <h1 align="center">Mr Alexander Milligan</h1>
 <h3 align="center">A passionate Website & Software developer from Scotland</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexander-milligan&label=Profile%20views&color=0e75b6&style=flat" alt="alexander-milligan" /> </p>
+<p align="left"> <a href="https://github.com/Alexander-Milligan/"><img src="https://komarev.com/ghpvc/?username=alexander-milligan&label=Profile%20views&color=0e75b6&style=flat" alt="alexander-milligan" /></a> </p>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=alexander-milligan" alt="alexander-milligan" /></p>
 
