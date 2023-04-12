@@ -32,3 +32,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexander-milligan&show_icons=true&locale=en" alt="alexander-milligan" /></p>
+<img src="https://skillicons.dev/icons?i=js,html,css,wasm"/>
