@@ -2,16 +2,19 @@
 <h3 align="center">A passionate Website & Software developer from Scotland</h3>
 <p align="left"> 
 
-
+<h3 align="left">
 <a href="https://github.com/Alexander-Milligan/">
 <img src="https://github-profile-trophy.vercel.app/?username=Alexander-Milligan"/>
 </a>
+</h3>
 <a href="https://github.com/Alexander-Milligan/">
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAlexander-Milligan&longCache=true"/>
 </a>
+
 <a href="https://github.com/Alexander-Milligan/">
 <img src="https://img.shields.io/github/stars/Alexander-Milligan?label=Stars" alt="stars">
 </a>
+
 <a href="https://github.com/Alexander-Milligan/">
 <img src="https://komarev.com/ghpvc/?username=Alexander-Milligan&color=brightgreen" alt="watching_count" />
 </a>
