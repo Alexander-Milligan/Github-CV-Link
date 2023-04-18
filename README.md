@@ -1,5 +1,5 @@
 <h1 align="center">Mr Alexander Milligan</h1>
-<h3 align="center">A passionate Website & Software developer from Scotland</h3>
+<h3 align="center">A Passionate Website & Software Developer from Scotland</h3>
 <p align="left"> 
 
 <h3 align="left">
@@ -27,11 +27,11 @@
 
 - 🌱 I’m currently learning **C, php, git & github**
 
-- 👯 I’m not looking to collaborate at the moment [none](none)
+- 👯 I’m not looking to collaborate at the moment
 
 - 👨‍💻 All of my projects are available at [https://saltirewebsites.com/MyPortfolio/](https://saltirewebsites.com/MyPortfolio/)
 
-- 💬 Ask me about **Html, css, php, git, github, C, rubyonrails, sql, photoshop or excel**
+- 💬 Ask me about **Html, css, php, git, github, C, rubyonrails, sql, photoshop or excel and much more**
 
 - 📫 How to reach me **Alexander0milligan@gmail.com**
 
