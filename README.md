@@ -3,7 +3,21 @@
 <p align="left"> 
 
 
-<a href="https://github.com/Alexander-Milligan/"><img src="https://github-profile-trophy.vercel.app/?username=Alexander-Milligan"/></a>
+<a href="https://github.com/Alexander-Milligan/">
+<img src="https://github-profile-trophy.vercel.app/?username=Alexander-Milligan"/>
+</a>
+<a href="https://github.com/Alexander-Milligan/">
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAlexander-Milligan&longCache=true"/>
+</a>
+<a href="https://github.com/Alexander-Milligan/">
+<img src="https://img.shields.io/github/stars/Alexander-Milligan?label=Stars" alt="stars">
+</a>
+<a href="https://github.com/Alexander-Milligan/">
+<img src="https://komarev.com/ghpvc/?username=Alexander-Milligan&color=brightgreen" alt="watching_count" />
+</a>
+
+
+
 
 
 - 🔭 I’m currently working on Sandy's Community Centre bespoke cpanel and website [SandysCommunityCentre.com](https://sandyscommunitycentre.com/)
@@ -31,15 +45,15 @@
 
 
 
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAlexander-Milligan&longCache=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Milligan&theme=tokyonight" alt="mystreak"/>
 
-<img src="https://img.shields.io/github/stars/Alexander-Milligan?label=Stars" alt="stars">
+
 
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-<img src="https://komarev.com/ghpvc/?username=Alexander-Milligan&color=brightgreen" alt="watching_count" />
 
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
+
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Alexander-Milligan&repo=Alexander-Milligan&countColorcountColor&countColor=%237B1E7B"/>
 
 
