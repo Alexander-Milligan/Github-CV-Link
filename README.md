@@ -38,13 +38,19 @@
 - 📄 Know about my experiences [https://saltirewebsites.com/MyPortfolio/](https://saltirewebsites.com/MyPortfolio/)
 
 - ⚡ Fun fact **My main hobbies are learning and coding/creating but most of my time is taken up with a 9 year old that thinks he is 21 and a 18 year old that thinks I am 10 but the are very funny.**
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<h3 align="left"><a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a></p>
+
+
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Milligan&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Milligan&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
+
 
 <h3 align="left">Connect with me: Alexander0milligan@gmail.com</h3>
 <p align="left">
-</p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Milligan&theme=tokyonight" alt="mystreak"/>
-
+</p>
 
 
 
