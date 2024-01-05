@@ -23,7 +23,7 @@
 
 
 
-- 🔭 I’m currently working on Sandy's Community Centre bespoke cpanel and website [SandysCommunityCentre.com](https://sandyscommunitycentre.com/)
+- 🔭 I’m currently working on Sandy's Community Centre bespoke CMS and website [SandysCommunityCentre.com](https://sandyscommunitycentre.com/)
 
 - 🌱 I’m currently learning **C, php, git & github**
 
